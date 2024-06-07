@@ -1,0 +1,30 @@
+stream lit is a pyhton library and it is used to convert models into
+webiste in this you do not need to know html css and javascript for webiste development
+and it can build goodlooking beautiful website for that
+. Can deploy your machine learning model
+
+
+# technical side of streamlit
+ behind the scenes it uses frontend of react library
+ and for backend it uses python backend
+
+
+ # streamlist disadvantage -- Customization options very less
+ # flask can help you for more customization
+
+
+ # title
+# header
+subheader
+write
+markdown
+code
+Latex
+
+Display lements
+DataFrames
+Metrices
+JSON
+
+
+
